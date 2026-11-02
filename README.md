@@ -1,3 +1,3 @@
 # MT1 Lab Exam
 
-The shopping cart application is in [`ShoppingCart/`](ShoppingCart/). See its README for installation and run instructions.
+The main HTTP server and Express applications are at the repository root. The shopping cart application is in [`ShoppingCart/`](ShoppingCart/); see its README for setup and run instructions.
